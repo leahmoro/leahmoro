@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Leah Orozco
+- 👋 Hi, I’m Leah Orozco, an undergrad at the University of Maryland, College Park
 - 👀 I’m pursuing a Bachelor's Degree in Computer Science
-- 🌱 I’m currently studying at the University of Maryland, College Park
+- 🌱 I’m currently seeking internships
 - 📫 Reach me at leahmorozco@gmail.com
 
 <!---
